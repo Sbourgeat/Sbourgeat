@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sbourgeat
-- 👀 I’m interested in Topological Data Analysis, Time-series analysis, Stochastic modelling, and Reinforcement Learning
+- 👀 I’m interested in Large Language Models, Convolutional Neural Networks, Topological Data Analysis, and Reinforcement Learning
 - 🌱 I’m currently a PhD candidate in Computational and Quantitative Biology at Jaksic lab, EPFL in Switzerland
-- 💞️ I’m looking to collaborate on Machine learning projects and computational models in Finance!
+- 💞️ I’m looking to collaborate on cutting-edge Machine learning projects!
 - 📫 How to reach me: samuel.kumar@hotmail.fr
 
 <!---
